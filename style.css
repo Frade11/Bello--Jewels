@@ -353,7 +353,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  width: 1200px;
+  max-width: 1200px;
   height: 500px;
   margin: 0 auto;
   overflow: hidden;
@@ -378,7 +378,6 @@ img {
   display: block;
 }
 .categories {
-
   display: flex;
   gap: 20px;
   margin-top: 20px;
